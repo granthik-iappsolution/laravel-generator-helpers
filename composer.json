@@ -1,12 +1,12 @@
 {
-    "name": "infyomlabs/laravel-generator-helpers",
+    "name": "codiksh/laravel-generator-helpers",
     "description": "Helper functions for laravel generator packages",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Nikhil Bhatia",
+            "email": "hello@nikhilbhatia.in"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "InfyOm\\GeneratorHelpers\\": "src/"
+            "Codiksh\\GeneratorHelpers\\": "src/"
         }
     },
     "funding": [
