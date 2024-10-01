@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\GeneratorHelpers;
+namespace Codiksh\GeneratorHelpers;
 
 class LaravelUtils
 {
