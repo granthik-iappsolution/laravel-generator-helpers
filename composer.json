@@ -17,11 +17,5 @@
         "psr-4": {
             "Codiksh\\GeneratorHelpers\\": "src/"
         }
-    },
-    "funding": [
-        {
-            "type": "opencollective",
-            "url": "https://opencollective.com/infyomlabs"
-        }
-    ]
+    }
 }
